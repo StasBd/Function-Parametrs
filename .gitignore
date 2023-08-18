@@ -1,0 +1,12 @@
+out/
+.idea/
+.gradle/
+*.iml
+build/
+*.DS_Store
+*.userprefs
+*.jar
+*.war
+*.ear
+*.class
+*.log
